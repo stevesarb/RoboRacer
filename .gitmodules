@@ -1,0 +1,3 @@
+[submodule "robo-racer-mobile-app"]
+	path = robo-racer-mobile-app
+	url = git@github.com:doehrins/robo-racer-mobile-app.git
