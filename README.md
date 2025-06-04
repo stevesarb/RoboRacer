@@ -15,12 +15,14 @@ C/C++ code that executes on the robot's processor. Using input from the mobile a
 See embedded program repo (submodule) for detailed documentation.
 
 ## Mobile App
-React Native mobile application that provides an interface to configure the robot. Connects to the embedded program via Bluetooth to transmit configuration data (speeds, time intervals). 
+React Native mobile application that provides an interface to configure the robot. Connects to the embedded program via Bluetooth to transmit configuration data (speeds, time intervals).
 
-<img src="images/config-screen.png" alt="Config Screen" height="400" />
-<img src="images/metrics-screen.png" alt="Metrics Screen" height="400" />
-<img src="images/history-screen.png" alt="History Screen" height="400" />
-<img src="images/profile-screen.png" alt="Profile Screen" height="400" />
+<div style="display: flex; gap: 10px;">
+    <img src="images/config-screen.png" alt="Config Screen" height="400" />
+    <img src="images/metrics-screen.png" alt="Metrics Screen" height="400" />
+    <img src="images/history-screen.png" alt="History Screen" height="400" />
+    <img src="images/profile-screen.png" alt="Profile Screen" height="400" />
+</div>
 
 See mobile app repo (submodule) for detailed documentation. 
 
