@@ -1,3 +1,6 @@
 [submodule "robo-racer-mobile-app"]
 	path = robo-racer-mobile-app
 	url = git@github.com:doehrins/robo-racer-mobile-app.git
+[submodule "bluetooth-test"]
+	path = bluetooth-test
+	url = git@github.com:rahulskann/capstone-bluetooth-test.git
