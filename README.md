@@ -3,6 +3,8 @@
 ## Project Overview
 RoboRacer is a robot designed to pace a runner. It *should* drive at a certain speed that is configured by the user while autonomously following a line around a standard 400 meter track. This project was developed by an Oregon State University Interdisciplinary Capstone team during the 2024-25 academic year. 
 
+Extensive documentation: [RoboRacer Documentation](https://docs.google.com/document/d/1mDbuTsM5ZFKxhrXCeLAITRCX2gvF7JBXz-lhMCgT6Ac/edit?usp=sharing)
+
 RoboRacer is comprised of two main components: hardware and software.
  1. **Hardware**: The physical robot itself. E.g. chassis, motors, wheels, sensors, processors, displays, etc.
 2. **Software**: The programs used to configure and control the robot. There are two distinct software projects that work together to configure and control the robot: the **Embedded Program** and the **Mobile App**.
