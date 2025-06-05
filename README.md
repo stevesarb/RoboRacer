@@ -27,7 +27,7 @@ React Native mobile application that provides an interface to configure the robo
 See mobile app repo (submodule) for detailed documentation. 
 
 ## (Theoretical) Usage Instructions
-1. Turn on robot and device with mobile app
+1. Turn on robot and open mobile app
 2. Connect device containing the mobile app to the robot's Bluetooth signal
 3. Use mobile app interface to set up speed and duration to run
 4. Press `Configure Robot` button to transmit configuration data to the robot. Mobile device is no longer needed.

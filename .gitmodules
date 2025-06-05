@@ -4,3 +4,6 @@
 [submodule "bluetooth-test"]
 	path = bluetooth-test
 	url = git@github.com:rahulskann/capstone-bluetooth-test.git
+[submodule "embedded-program"]
+	path = embedded-program
+	url = git@github.com:fnuha/roboracer-OS.git
